@@ -49,7 +49,8 @@ Keep this light — one clear analogy each, no depth beyond it today.
 
 ### Modify (25 min)
 Give her 3 more everyday instruction sets written with vague steps (brushing teeth, tying a
-shoelace, walking from her room to the kitchen). Her job: rewrite each so a literal-minded
+shoelace, walking from her room to the kitchen). 
+Her job: rewrite each so a literal-minded
 "computer" could follow it without breaking.
 
 ### Make (15 min)
